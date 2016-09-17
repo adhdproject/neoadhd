@@ -1,16 +1,3 @@
-Package: adhd-OpenBAC
-Version: 0.7.1
-Architecture: i386
-Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./OpenBAC.deb
-Size: 16550
-MD5sum: e71982ee22fdf9e895ffad4df04747e7
-SHA1: 783efd54f4d110f194263e5797f475e37b886ebc
-SHA256: 9cbe90cab700ddb2b3a331931d6f636b7311f78f498e9efec5ad07abfcbb8116
-Section: base
-Priority: optional
-Description: An ADHD Utility
-
 Package: adhd-PHP-HTTP-Tarpit
 Version: 0.7.2
 Architecture: i386
