@@ -3,10 +3,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./PHP-HTTP-Tarpit.deb
-Size: 39300
-MD5sum: 70de15fe1f7752390a987d4617b4f708
-SHA1: cf5b8ec7d6eb7630fe7356fe5d6f04142bf33f63
-SHA256: 76c0ce2cfc663f9fe2124f868c33a077e8a01a75348760186275604a90516b70
+Size: 39292
+MD5sum: b13f2375302f2133dca5cb6b7adb0123
+SHA1: 707927dc5c5d171f70be3bbca1f04381a2395c7e
+SHA256: e4e3266ba854c693d2ee2a53bb4dfde235a9e7b9fa243d91322ce586a9c9d206
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -16,10 +16,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./TALOS.deb
-Size: 342216
-MD5sum: 5b556113617904cf6347f7125f5e9c3f
-SHA1: b4785cb1107bd33fde568c232e7daf1e251b300c
-SHA256: 8ce64cfcdc15dcf36f1055dc8172c70bc8e33dd3dd7d12659c75a67ddfb6983c
+Size: 342196
+MD5sum: a3ae4288ea7e491558b405ff8528dd7d
+SHA1: 18550bd099aa581e8ce67300d370ce7506ef7d7f
+SHA256: e06fd86572214b10e04fa3d71e2d8d60b679beedd99ceab496328328ef3d9f78
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -29,10 +29,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./adhd.deb
-Size: 2030
-MD5sum: 948d32c747c084e4203138d76630b0fd
-SHA1: d6ac06751d998d60fbbc90fe32dce2acdb37ff16
-SHA256: 52831937112eca61021fbc5790a8a18cf7d8a76b3b17dca35ddb5e84cf33186f
+Size: 2034
+MD5sum: 94631081a591d099d59bc54ab91201c0
+SHA1: 4781623aa3b9a4cd98fff1ff80df734037d2aba3
+SHA256: df94ca1aa934be619e21edf2d6871193b6099643896413ec7aee9df3c134ed52
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -42,10 +42,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./artillery.deb
-Size: 289770
-MD5sum: dec764dff005af2372015c5cd877f18d
-SHA1: cb9b08f8cbe8c9356cedf121718455ba0cf1b2e5
-SHA256: 2b5c8caac845fd4e297220aca677b2319411a98ea7e0c7009a22feb48c049ac5
+Size: 289936
+MD5sum: c1d1967f800593e59682d4c548121c21
+SHA1: 93dd19391afeda5272489a8dc333d82d29664ddd
+SHA256: 255d00a8df81f61c1cc0113f752080a00145b8c6ff396baa3c36b95d5aafb902
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -55,10 +55,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./beartrap.deb
-Size: 69946
-MD5sum: 00898baca5f94d6485343438a7ed5954
-SHA1: e7e43c551905a9a2bfcee20e87abe32b08ad2e6b
-SHA256: faee173dfed89ead2ce6c0f24af2c384683557694645b1bc31bfb9a60c146613
+Size: 69960
+MD5sum: 7d1a885f9a3cef890544933ac322c35a
+SHA1: 6f3d5ec89cd4cc32fc15d524f2378503e5244763
+SHA256: d794b0efde13be2571c51d96ae48c61daeef5d3a75b25080c8f1396b4b2b5adb
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -68,10 +68,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./beef.deb
-Size: 12482604
-MD5sum: 6992e2088e05db39e2b0e625b23cc02b
-SHA1: d6286b090a14d05854020a60253eb75e7360920c
-SHA256: c07937f332670bee9cb63000423782450e2778aa464bb48528bc974f09675581
+Size: 12482336
+MD5sum: 6eb9d25335f705a63e22e9680a9b5ec4
+SHA1: 01fe9d605c00f150e8f5e6707820c7824cf6f8ea
+SHA256: ccf1ed236c9d4196f19623f2f7f6ead85f48b82f4c05de69c41301ecd455a4bc
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -81,10 +81,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./cowrie.deb
-Size: 7984906
-MD5sum: a45fab5d8f3eefa33d3b5ea3c567a800
-SHA1: 2f261cf4d2355275382e60a076ba68810e7b11f9
-SHA256: 048323f572dc137ad445efbaea91859a30ba948fc064d3e48263fc3afbe1bb37
+Size: 7984852
+MD5sum: 192a5fbdbb02a6d1e9a4f2905451d613
+SHA1: c753f5fdfe5726606378781081d757a23d842e0b
+SHA256: 7f1cc03881f98e750228b6d0d9a77e723573633800b9abf39dda93a9a96289b1
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -94,10 +94,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./creepy.deb
-Size: 3679804
-MD5sum: b0459574b6e53ea1d44db1c130e8d118
-SHA1: aa40865d4f50632385939fa2e0079d2cc31b11ad
-SHA256: 61e85ea42ce83659374d5b3d0a7a9fa5e5c8f94bf9447fb30cf03ae9a3298d43
+Size: 3659602
+MD5sum: cfa47ccf789d15bc4211c0ef6654ca31
+SHA1: 36d50fb41aac3901760d2a1353c957d3282a8878
+SHA256: c53bcde345f0c3982a4cf0f68bef58e3cb67f724c3a2eab8ca78f9fcea94dc9c
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -107,10 +107,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./cryptolocked.deb
-Size: 12360
-MD5sum: b91ae0d17c8e29b911d81e8810a8e8a9
-SHA1: 28edae72a1213445d6dfd33ea4e1e7795e49a54d
-SHA256: 2fe9b1e9f53d3b2892dfc0cf6a33c180147c974f2b20726e15f90064e08f4d1b
+Size: 12364
+MD5sum: 6b07af1d28c9c3053e52ab1208905ef2
+SHA1: c0c3ee719390dea28bbab7ae6dbe23ad8ad9b6b6
+SHA256: 6cd3a470c1993def97c35a1c2420c752f0f0e2c9da8b3a4ad91c6189b71fcba2
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -120,10 +120,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./decloak.deb
-Size: 137030
-MD5sum: de10288cc7271af058884054bf52dc97
-SHA1: 5d8bdf12abeefd76d38d123914a075fa0e64aa6f
-SHA256: 9458e6ada8f8411f3270d113b6492429dd1bb2017466b8b5233647ba55f9489d
+Size: 137034
+MD5sum: 20d28f2715e14f4ef2920c1eec3d35a9
+SHA1: 671fe0695890c8636fb664abc461dfc096d49527
+SHA256: f88c15c4739a3de3951fe419849a75cd04dcf85ea72a047928e5481db1915cfb
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -133,10 +133,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./defense-by-numbers.deb
-Size: 167366
-MD5sum: 9c1886df46696782e0e3f440cdcbb8cc
-SHA1: d638bda3691118dab0b327fb04632c5077868b23
-SHA256: 9389f2b3d0de514187f10646369eb29d687abb9af2ab73fa50219143d29d7017
+Size: 167364
+MD5sum: 33a854a32c50abc4d8762f111ac488b1
+SHA1: 1459f5fe8e600426fc57528efc467c77544a34fa
+SHA256: 1a2ea3a189869c505546b242c96d2682c6e1ad167e500e37d109b3b973eada2c
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -146,10 +146,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./denyhosts.deb
-Size: 57456
-MD5sum: 1ec1e933d8ac340b75897a238c5f4075
-SHA1: 7296fa09c004656f80618442568f69c32a656816
-SHA256: 5e3e8dd3355aab5673fbe5c9aa06fb61760ff5792c78185b3768c9a3100dcff5
+Size: 57450
+MD5sum: 8de5cd55df29ec5768c56b52b438bcbb
+SHA1: a1c34562e53ff2688f9b4b633510a87f7b82d7b4
+SHA256: 3420778347d947bed0c15cba47333a675af1841af3390f1217426ea6814db40f
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -159,10 +159,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./docz.py.deb
-Size: 9282
-MD5sum: c01bd77e2afc601b1020f1924c1479c7
-SHA1: 14741ce764484fc7de7530df4e7be95d0a47c4da
-SHA256: 7e16b6a4ee83eda1a67ee323cf41bd3301f7b220d797b7ffbb27f157f6b11de8
+Size: 29446
+MD5sum: 2ab4dbcf0c6278201743e8e6555793db
+SHA1: 5922d699c3f4b3d90e8dcd88df4da26dc0084a0e
+SHA256: 8b2021eb790c93cafdfdf106ed523aa1972d44ed235a6ce4c971ed306a29d4c4
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -172,10 +172,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./gcat.deb
-Size: 111828
-MD5sum: bd3c5225d03231604ab876cc9abc2ae8
-SHA1: 0ceaeb07eaf7c722c0ccbbea3342111c0311ad2a
-SHA256: f7f4f67fb07e4e0c24cc9749e8b1ff7d241b042efb37c7145b5496b7d3a792c6
+Size: 111826
+MD5sum: 3c803c27ef05ee641bc290eee1380455
+SHA1: 049467706d38846b4fdd3791d9c7ce574736d854
+SHA256: 4c1e2e8a0941c0df72007a3234a8807d477975854a7338bdc0044a933b7f261b
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -185,10 +185,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./gcat-poc.deb
-Size: 11918
-MD5sum: a3eb3eda850d507ec7cd2322c1c2bd81
-SHA1: f18a62d0253f0e1de53d43008aee93376a6db848
-SHA256: 619ea674dbd0525d3bf179f62b58bfd3d4c735ccb27598a592900e69a3e5fd24
+Size: 11914
+MD5sum: 30bc29218faf974a082d8025afeffc84
+SHA1: 5e0f26e81001978bef3ba33d18f472cac6c47fd3
+SHA256: 765d202c5b32fb8c72e50b99398ec0cdfca7c1bc5deaac6c8f379f0570bfbeb1
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -198,10 +198,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./ghostwriting.deb
-Size: 2207560
-MD5sum: f4149340909e2309a8c02b22f6ffd000
-SHA1: 7c1dbe3bb4e9b77cb72ec4b79cab4a38488344c5
-SHA256: af4ac0254b8d75cbbbb68e03bd3bb09e0332f9b3ba97bd3028bb058822828b39
+Size: 2207588
+MD5sum: 7472eb4163e07aa6320fbad68948d51f
+SHA1: 571a2ae42ad40ccd85954bcfdaf5ae95db436b16
+SHA256: c76ee506b872d5e043d281e56c8649cb9c0064c717a2b5bd0c56a564c234904b
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -212,9 +212,9 @@ Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./honeybadger.deb
 Size: 118384
-MD5sum: ab93b9ee5f749cb3bd83d7ded37d41e6
-SHA1: 29e4bed7cdc3615405b7ec361494de8452ef97ec
-SHA256: 9873f6146c6be816c03237797a39e1c24840f57b2d654f55ad54c52bf8b7387a
+MD5sum: 0c29a7f5eb5eb447e1c65c152c574c6d
+SHA1: 28e2c75a4e2cd6b89a58c28feb57ebc90944ad2a
+SHA256: 68df4616e5679dcd955529f4972564536cb53504b5f8b0c3ee7d63b4b3f23b0c
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -224,10 +224,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./honeyports.deb
-Size: 1260208
-MD5sum: 432b01da7262769b83ee611cb624e9cf
-SHA1: 7a3012ea9f6e27756c23780599d53d9cc747dd2d
-SHA256: 1d37ca8e276cd86db167fcaaa17ad69312785a5d36bdc26163e97dbc439d721a
+Size: 1260184
+MD5sum: a9f4b664825f8174b5e71d0cda239349
+SHA1: 4b58a7d93968779112b1759117ff65b337cd1ec9
+SHA256: 1c038ad669f0fb3d338c03cc93fc760a1d870916e5266dfca744a54807b386de
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -238,9 +238,9 @@ Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./human.py.deb
 Size: 24554
-MD5sum: adebfc4c42f5675074a48914a0748826
-SHA1: 889c11728971ef8e6f35952a5283e9c3cd8928c6
-SHA256: 3dfaab58dad4b2869c8839dee9d11110e3ba9075aff41107b999c5e6bd8fc4c0
+MD5sum: 6b0ff000fc6c25be13da4bb57db2d556
+SHA1: 57a051916175a5f1dea642395c8ee2ed42783a8a
+SHA256: 051f529c25659b7974adbf99b10a60b2a1bf313a67db0a3a52601da52ab40ff5
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -250,10 +250,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./invisiport.deb
-Size: 8896
-MD5sum: 34f7dadefc1819979cc11afe6888b61a
-SHA1: 479b54004455e0bcbc1ceb8ae02d9dac8c9842dd
-SHA256: 16666ca38d4eeb13b40aeacad23b80b52a702df981923eac56d2c44506397a74
+Size: 8902
+MD5sum: f2a8651033b80ace066e4e7c04aa5c34
+SHA1: 7a37fac4ddd7ac46b4f0d727e949baca1147673b
+SHA256: 157a730b75edb9da84b7dfc220766ee1105e16ef5c5cf2525b5b5c487adb6e19
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -263,10 +263,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./jar-combiner.deb
-Size: 779828
-MD5sum: ca1f3cef3ed8175085fe3edba04992d6
-SHA1: 028d333e950e30cb2ff800be9db885e710632d95
-SHA256: 13718ccf64ef2878d84e5727ad834644c651c364c35c619dcabe9f4fc22659ae
+Size: 779810
+MD5sum: e7cd5ae031f77af31791b7eb79984cca
+SHA1: bb05fb0fa6960d21367d4fa97068d29da2b6fa12
+SHA256: a235e2edc3778155b5cadcfcf010b23ad7ce185050b062e15cc2abe6db7364c7
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -276,10 +276,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./java-web-attack.deb
-Size: 126088
-MD5sum: 4e9b924c61aa5e7a1b7eb8cf06bd8de6
-SHA1: 2ce0c65066c527c94f01183b0097c2d84f356162
-SHA256: 1aa7e6791817b9231be5e2dd28c20a9f7a1e59ef7d6f69799af138d7be5aba0e
+Size: 126066
+MD5sum: 070b164ca52ae04ac784759bacf8c11c
+SHA1: d4e0e434890db65a36900d56f9df753bf9a4829c
+SHA256: 9e011b76fd249d2e95e3e1fe9661b204d875ca80c71d828583aeea300feaa1ac
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -289,10 +289,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./kippo.deb
-Size: 8925960
-MD5sum: 536d71c03aa9baf729916995e82fbaac
-SHA1: b47f687f23d5da5199cc86c57db256dedab5778e
-SHA256: 3bfa8b0ca6360545a0c8287d9dd01cfafb50db03758924ac25f1eaaa216e1ff8
+Size: 8926646
+MD5sum: ec58cf8bb06c623dc170e0d1a84e6bd6
+SHA1: 69a99881efa2704eafe7d1592b746f22535fc41e
+SHA256: beff748255de0ffad9b2273bf945237daaf612c7c0ca6bcc5b606a00905e4bf5
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -302,10 +302,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./lockdown.deb
-Size: 51412
-MD5sum: 3c159e1f65c9f22576e3cf83fa7f6450
-SHA1: 163ec9163ea9ca2449e6033e3bb40f842105c9eb
-SHA256: 578fee10facbbf4a72c6c02f8c21fcb1f59e0853c786772eb093ab93ed2f56ec
+Size: 51410
+MD5sum: 8fe85cbe16346f39965129f9e8c82fa1
+SHA1: c9033d1071d2aafa49a7806d6a47a205c7410ab4
+SHA256: 83eb13045b943c4f281777d0957a61514aceab4c8c62517cc73208e80b16f0d5
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -315,10 +315,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./molehunt.deb
-Size: 17482
-MD5sum: c3938d1ba3ae604c16acc86f0ea3f49b
-SHA1: 6bd15c24b6d0ca4240e401bbb667e35359661e1d
-SHA256: 94fd6006c073f733f4905d430f14372620e28e382fa71486c49f4d975ab31e63
+Size: 17490
+MD5sum: 68440decd222acae2f8b771757d0cfe3
+SHA1: a402b8e234d879a9283f8fe1663cb34699a9b3d2
+SHA256: a891e73897d6a0d6caa0da66ce69b47795ba6db2aeba051b4ed3280f8ffa9f46
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -328,10 +328,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./nova.deb
-Size: 2735950
-MD5sum: 489554f099e788b1a57e91b0e981c929
-SHA1: ac9ee26312daabdad56ddb4004fe487caed0b1f5
-SHA256: f056809ed2be0c4338db0c50215a0c5e8d0dc7802a695f3fec53750b34a31bbe
+Size: 2735916
+MD5sum: b6b118bee75b6bba3763323ae6b0f0d5
+SHA1: 75f6fdd058e1e93a60bda30c1f777ed54099ae0f
+SHA256: 4d08ddcf17c98157b35b39cfef1159430f55a99837354425c7d9a2ea51d20000
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -341,10 +341,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./openbac.deb
-Size: 100520
-MD5sum: f15bf6ec7e4b2b69698f2b2254bb690b
-SHA1: c5e9dd18fccd47d1b06ee9b6defc1d3f464f3b64
-SHA256: 41072648c89028dd8157c42d44683a925a3a33457ebc2e9115aa8b3840335081
+Size: 100504
+MD5sum: 2b9006c20ed12f33ac354fe2992f6ca5
+SHA1: 985df822e6ff020a7197f172b83d60ef2b9f72d3
+SHA256: de9a1b471f8a9d49393c352e14a25b8519837d6fe280b75cddc6acd5a0de2f31
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -354,10 +354,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./opencanary.deb
-Size: 4737010
-MD5sum: 97b76f9a5b77e66d1eacf32e53b85941
-SHA1: 36fb8a6d8a8186f78c6043ad0a7cb52ad36b13cb
-SHA256: b21c1aad73945a52f519a4a4e608282ffc86ca3fe46a0cdb97ea41b768c3b414
+Size: 4736992
+MD5sum: d965783d70c006c512dfd74bdec2028c
+SHA1: 77c28deaf0d9ff7a4647c585f2ff4a1a4458bad7
+SHA256: 4fed6db2c0f1d5fcb9794af6a928ebcc0cdcf0cb7107f79e94c49535d6393866
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -367,10 +367,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./oschameleon.deb
-Size: 21704
-MD5sum: 45489ab6c691c5a22777b63b86223a85
-SHA1: d351a31366c4b89c3be1662a97b797422ca1fe16
-SHA256: d049aa3dd1d910d80acd62550bb92ba0ebb38795bed471ad7a50bd86393021fb
+Size: 21696
+MD5sum: 07d108337fc4a9a9dd8945e34a5a4f32
+SHA1: a286f855f04482169b41a630f0764fbca893c180
+SHA256: e6b4c508596238ca4de69aab3623851331fd3c1c4ce254d371dcb49eb9c21396
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -380,10 +380,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./portspoof.deb
-Size: 3397886
-MD5sum: 7626ddee8e4bd3168f186b59dd5bb303
-SHA1: ff571cb51eb0e344b0e273e4d89b3213856b5815
-SHA256: 5f27682d2e288afacd55597a2588f8678df1ff8fb2e0c45839148081a8823af6
+Size: 3397770
+MD5sum: 7c98661f13c9c94ca273fbef676875b8
+SHA1: 9f9f661f0ac4a3966ae8415b4b86ccf8005ce234
+SHA256: 5283d8cb3d25b33a7b5b9d965ae6343fcfd046f17e2e7736f25b9a8fe79a1168
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -393,10 +393,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./psad.deb
-Size: 1605798
-MD5sum: 2ea5574de8ba210fccc98e061d3f2ff5
-SHA1: 1144391c64f631a1548d309ff3d4f2b69e2cf212
-SHA256: 594d719e4b0a3a69bbd6c0f6f0ba75e0c9747b5c34275d39d427ef816bca455b
+Size: 1606894
+MD5sum: 33cd259934b43485839f75489178675f
+SHA1: d055b8c694916cab200876e9fcb6147e0920eba9
+SHA256: 8da58ac3144b00977681e7c349739e0f405ae6c2f4777195042eda6e5c8bfe0c
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -406,10 +406,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./recon-ng.deb
-Size: 4006714
-MD5sum: bb7a804a20d14d2b936030d37c37f10a
-SHA1: ca784a0b97597f31f7e68e8d77183c0b7053e4ec
-SHA256: 65e24f46d5b897f27784405d0d7f5e784f5fe82318d3df433d1c39991624f11c
+Size: 4003062
+MD5sum: b35d3efdf9e26b11ebd857d50287ac1c
+SHA1: ddfa4b7c11229ab2bc08256974ed3c0928036f14
+SHA256: bc31c548f628b05ae4f553bf2cc9dd037dee4d7681c0d2374a0bdf45fba6000b
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -419,10 +419,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./remux.deb
-Size: 17400
-MD5sum: b49d6d87d07f760c98e66cb41e513525
-SHA1: f0cbe88df5358c9ba049b4b203109177e9949bf7
-SHA256: 724dbd93437f136976929f6ad63ceec641d29b911f60133340151f6a2ad1a191
+Size: 17396
+MD5sum: 8692816367dc09dee6df4b51da19efd2
+SHA1: c0c957718cc8687d797d409ccd39279bbe9a6d0b
+SHA256: 1bd038aac236ef3d0db7817013d4df790383e07e1eb6253efd58c6ab996dc2ed
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -432,10 +432,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./rubberglue.deb
-Size: 11206
-MD5sum: 3867b0e0fe9dcd9fcd74f6f5dbf06e06
-SHA1: 14b38e2589c1c81f6a33df1a2ec4ced4198d7c0e
-SHA256: 71701d46a3379446a769dd82fdb3be231ed4dfd355024e63ac386fc9cd68652b
+Size: 11196
+MD5sum: 710a7cf0e8099d3c0cef062ab3654c8d
+SHA1: 3793b74c9e69b513819122e5b77395ece0aee363
+SHA256: a7ae47baf1e721b3a520d257deb0948bae4be7b79b777e24031dae7dfb2afa8f
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -445,10 +445,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./sidejack.deb
-Size: 301550
-MD5sum: 49311d67fdcf82fd42f382a7a07ca9df
-SHA1: ebd069d39977f26370eb65f8e2a25f8c070ac4bb
-SHA256: 1483151e585bef9abb955d56df3989515b41f7c6db4b84c9efb8fc08e3e168a4
+Size: 301250
+MD5sum: b711db8be5dff91d54fddfa6c56b6ea3
+SHA1: 31418aa33672f10bb575eab2dcb06eb2de07c1fd
+SHA256: 7670f1fe96a6a4c4f8eb521e8700b8bf080e90258400ea61b86141c8eb4322ce
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -458,10 +458,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./simple-pivot-detect.deb
-Size: 7930
-MD5sum: 0e78acce90aadcc4cf1cf1c4bb2d065f
-SHA1: 406650397a8445f9968200c2a14c0cbd0f3db116
-SHA256: 34e978b01c38ea88974bc976164ccc679d8f0c4d18d953e87740e8db4268cdd1
+Size: 7924
+MD5sum: c15cb4b7266183ae07497ea10b8562bf
+SHA1: eebbb1160cd5203b7cef3846e10b08bbd42d517f
+SHA256: 7526cc04f2dc778cb7825974689a92f36e241aab5663c709f465492e4878ff46
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -471,10 +471,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./spidertrap.deb
-Size: 24802
-MD5sum: 9dacaa4a495dd5e02dafee3bf79806e4
-SHA1: 3a7219b76ed54db6a7ae472d42849bb68852a859
-SHA256: b8fc834060935f491954ef68c65e3c296e82fa340b9321e123925851aaa01f1a
+Size: 24834
+MD5sum: 283ad28d170c1a51d6c4b1a954bb516a
+SHA1: f15a7c0b480ff0cd667c156b96abba0709082ded
+SHA256: 9887b491d7683aad517a99a393d73c8bea46f0269ce58df0d978d8b36091fe22
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -484,10 +484,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./sqlitebugserver.deb
-Size: 18550
-MD5sum: 4b681639c5da824fe8e92d812c0ef794
-SHA1: 144a2f7996036a0251d8843ab71c7b35791c3bfe
-SHA256: f7aadda73b7a3d35f0dd6f7f8f4e249541644f1c8df20db6016f938e82bf0e78
+Size: 18558
+MD5sum: 93ad80a53ca69a3b5521e6ed522f47bb
+SHA1: cb67a66e878e962ea09457f6cfe9f82f7c2ba630
+SHA256: 543136d549b78681eeeabbb21daad50a5f12386860beb3e6fa5702083c4514b4
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -498,9 +498,9 @@ Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./sweeper.deb
 Size: 8976
-MD5sum: 66a4bda37c4f8e3fac430ee4f9088dd1
-SHA1: d932c88b62c70e130ddf52960eeba6082b1c6860
-SHA256: bd51e1d0817aa2b7b457fd6b10b044530219f58f0e0c136404fe4912f9005980
+MD5sum: 7842b5d93217d004ddbaeb184f7e4eab
+SHA1: a6ca1df36b14ffd9a20d56f7ad3a42b45d42fdc7
+SHA256: 6ea9b2ae796c6b40b422184670ddb529089749ec96b3b29d394af366b300d740
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -510,10 +510,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./tcprooter.deb
-Size: 22388
-MD5sum: ce359bde2f5495248449b320c5cef4ba
-SHA1: 9ee35f4715ecab6e2ba9138db7eb9a4ddd8e9017
-SHA256: e7c0bfd7ab687b9435b4c6acc707be591fdeb12e33edece678b15028131aee26
+Size: 22396
+MD5sum: 9d77a2f3b5d35d48d625c81c8a753300
+SHA1: 1316f67498e4c6acaed65d89cf6492bc225b93cd
+SHA256: 44682ea2499abe322de0a5c91e74a425d9fbc0afeb18eb029620057f0696c756
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -523,10 +523,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./webbugserver.deb
-Size: 29608
-MD5sum: 36988532703dd47a554718ddc1964cdb
-SHA1: 04c454e53cc85a8ec5479fef4e73d25ef17318cd
-SHA256: ee88b669e66f8a6629aa5e74eb39caa6c8c93bdf3760967d0a5f074a222cfc69
+Size: 29598
+MD5sum: d6f3699332e464a84d0f3b6f5d278b17
+SHA1: 343679bb182db0b8e278f02d27168933261ad803
+SHA256: b74d994e864051e4b38d35327641e9e9f52a279ca7711fd30a0b9ea4ce04df8a
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -536,10 +536,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./weblabyrinth.deb
-Size: 44596
-MD5sum: bbe162cad345e33d156b2bea3d9e23f7
-SHA1: 070c0f90e135c3ea26e63208bfc767d88cb10f3c
-SHA256: 4ff6b922e190db60c5d7c140e53a4d0c5bddb581122246fd4b9dcf5eca783222
+Size: 44588
+MD5sum: 108ce7977eb8c1321f6728fd0ccc17fd
+SHA1: fd2bba74add955c00dcd405ba925ae34d6fba82e
+SHA256: 7988cba9731405d389730387350c6d24b697ab596d0b7aeb6d191d674171a4c7
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -549,10 +549,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./whosthere.deb
-Size: 639254
-MD5sum: 79fb7c7c15cdb0aa3cbb7265ca573a9f
-SHA1: f6e1b60fdeadfd692f318ba5ba2a8d293405f398
-SHA256: 03ef50230950fc42e3115996c492abd154bbe6886c94fca3faae346f3dd202dc
+Size: 639298
+MD5sum: 8384ebc30f9dfe63188a8a0c37b24188
+SHA1: 56fb13c5ba729662b7f85e44a8151716b6a9cc86
+SHA256: 3e17df3a6497dc911f5762f43571a0eb672002bb54be0f73dff9cb695b2160e7
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -562,10 +562,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./windows-tools.deb
-Size: 48272928
-MD5sum: 1016cbf227173ee2298833a2a7e37089
-SHA1: 088342970fed2b08fdeed8ab314e71ddc5ce0ac1
-SHA256: 95eea41565381de18b26d1773eef30194ab4eec835139c6e648d90afb9791817
+Size: 48272924
+MD5sum: 144fe7e6a82ff8fff4928572ec964c48
+SHA1: cc95fe8522b4eced603462d7f2bbec2ee428e630
+SHA256: 8d7dc11ee43575e5d15d6f004a2f595aff81eb1780491cabadefe40868f3a257
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -575,10 +575,10 @@ Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
 Filename: ./wordpot.deb
-Size: 1546758
-MD5sum: a9054f6a6e77addd207037f7ddd8cdf1
-SHA1: 49b7fbe644648f08e2c45642cd49b83f4d05e511
-SHA256: b6fd36b6d391e0a4b90839c810a4a8fb5338910f8c70b3250e9ef9c3e9c049e3
+Size: 1546756
+MD5sum: c3758fb430887f3d44d5db318b1228b1
+SHA1: f611aea8082c0fde45fd3d281fb5387e0af584a7
+SHA256: 0fe8dec2ec7a144e4dcb40354431f7b431b7447a94ca1cb088fb47dd87873f41
 Section: base
 Priority: optional
 Description: An ADHD Utility
