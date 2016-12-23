@@ -1,0 +1,3 @@
+verbose
+basedir /root/build/debs/repo
+ask-passphrase

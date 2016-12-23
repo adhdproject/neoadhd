@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Origin: ADHDProject
+Label: ADHDProject
+Codename: wily
+Date: Fri, 23 Dec 2016 01:31:17 UTC
+Architectures: i386
+Components: main
+Description: ADHDProject repo
+MD5Sum:
+ 7dcd1d47813dfed360efecb8c2162c1d 18816 main/binary-i386/Packages
+ 5c466fca86b9612a8f9f60b086d010cc 5198 main/binary-i386/Packages.gz
+ 577c747150a11e1c4ee479a0660d5dec 104 main/binary-i386/Release
+SHA1:
+ 81febe0a7a23ffeb176aca8c18b0a8deefc73a97 18816 main/binary-i386/Packages
+ 0874f7cb2eff2454e663874006cf12302cca0a44 5198 main/binary-i386/Packages.gz
+ 355db04f8b0ba953ed0cb964d93efb688b1683cf 104 main/binary-i386/Release
+SHA256:
+ c913a4be7f2bc1a57f608e15bacae8152d2ebb59806b70964cf3349337ec5c64 18816 main/binary-i386/Packages
+ 0e80d7815902bfd8319a8db2225abadd82684fb794107bab17cb5e6ecd47a862 5198 main/binary-i386/Packages.gz
+ fde3eb8b7f6750eabc6bfc4454575ca4f0ed1a002622f6072c0cbbd611438bf3 104 main/binary-i386/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJYXH5pAAoJEGLFu1qmCgCEl9QH/RGznv6PFFkxm1BfiCdyxnp7
+EKY0BUBKh8atq0jap2DIcThRqOplkU/yEH1I0ZF/YfioiHteya4VJ5dq7Sx2PWLq
+F/RkZHHg9LqFrdMbQtcEbjJ2BXlrQxynNYRGG3l8wlOSZ1mcjW8ZMx8E97/Zo2Wd
+7milD9w+Uwl63E59iy2IFlqwCVDeHeukUfcAnfJTl4MupqOrJ9uojIv2YZ1C95tC
+Oawrx8EgoZazI+FR0jQqeWw8ly6ioZuki4W6LFgqlc6e2JYc7jvTodrXvk7MAdqV
+deLsKti7dxQxVVm/Ig84uPmp3zx3rDdkayRbzQwhBh7Ht+BqDuImKRTq+Vsd8rE=
+=tzWe
+-----END PGP SIGNATURE-----
