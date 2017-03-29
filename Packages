@@ -2,11 +2,11 @@ Package: adhd-PHP-HTTP-Tarpit
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-PHP-HTTP-Tarpit/adhd-PHP-HTTP-Tarpit_0.7.2_i386.deb
-Size: 40240
-MD5sum: 31afba1c76e6a070ef4ea508ff4a36d5
-SHA1: 1c2260de30bc2c704fdaabf62d514f5e96d81503
-SHA256: ede5d1e8fe3e7e6c2891eab04971e8b0491fc7dc131c1a27636ac45ce139f96c
+Filename: ./PHP-HTTP-Tarpit.deb
+Size: 39294
+MD5sum: 4288177b87110474ffb70c599f2e8e55
+SHA1: dfd7dd35235073f44caa429ce93bb2069b46a3f6
+SHA256: df0e62e2bc120523e89c1dc0d150cae6b6115701f3ed1a0215c7f211d50be297
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -28,11 +28,11 @@ Package: adhd-adhd
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-adhd/adhd-adhd_0.7.2_i386.deb
-Size: 2976
-MD5sum: dd1a3ca77e14647b3acdd7fdeb2846a2
-SHA1: bc988d110559876d93799a4db5d0f3097321167a
-SHA256: 60c34f4549fcfb5303c373c7a3308c4db45ac0385ce0196030e4a8f534f36372
+Filename: ./adhd.deb
+Size: 2034
+MD5sum: c72ca9141e5d6300b532c5fb458e73b2
+SHA1: 85802686f0c684c6e99266cae9f802214f71e377
+SHA256: bd4f0e9150bf5b81118f8e9bbf9c9b49b780a8550d367515475293a0437d1e75
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -54,11 +54,11 @@ Package: adhd-beartrap
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-beartrap/adhd-beartrap_0.7.2_i386.deb
-Size: 70882
-MD5sum: 47eea0d63ed8d54f8807b3b36aeb8860
-SHA1: 6982290fc04cdb07d9e3e8086d1e230aff22cece
-SHA256: cc9c3c139c359b98bf8d56c526add7192569907d2d767e4c5102a5ecc8890682
+Filename: ./beartrap.deb
+Size: 69942
+MD5sum: 5df255fef88248231142a7007c34a3a5
+SHA1: dccc405288acd61f8381d9e82f0bde15b2795839
+SHA256: 9d3f2b5370e9b50cc5b5e6b33ba8e1a9289329abeb4e8b0e558b21302fac058c
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -67,11 +67,11 @@ Package: adhd-beef
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-beef/adhd-beef_0.7.2_i386.deb
-Size: 12484638
-MD5sum: b43ede7a168b6f3cf2cc4949a5a67683
-SHA1: a3dabc7d8548b8cae301be77c44edbfe4e742a86
-SHA256: e8cf4b881175e5552fc3a7c58619d574fa47cbc99e7ca6f9863e0378465853db
+Filename: ./beef.deb
+Size: 12482142
+MD5sum: a543ecaa0dca630b7cb04ea5ebd545c7
+SHA1: cdeb2c48d73cf892af6a5bfbbc8617efa17fa58e
+SHA256: 18f655daac10f1521dd366a83350b038096096653e97dff1a68bbdab87cb14af
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -93,11 +93,11 @@ Package: adhd-creepy
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-creepy/adhd-creepy_0.7.2_i386.deb
-Size: 3661808
-MD5sum: 57b65fd9b15b49649466b6969373c73a
-SHA1: 734e8fd5ad5bd2564ec75c53e6dbb428b8aac3bc
-SHA256: 01ef911d73bf44c31be72153cc2fab00566478a29045b3abf30505f07987f64c
+Filename: ./creepy.deb
+Size: 3632228
+MD5sum: ab8913980abe3199d74905302b052812
+SHA1: 2dbf916be3a534bd65680038880df0252df74344
+SHA256: b5dc91912498ffbb6c6fe99af03d5af6b7eef9eddaf0f3599cba563e222a32c4
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -106,11 +106,11 @@ Package: adhd-cryptolocked
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-cryptolocked/adhd-cryptolocked_0.7.2_i386.deb
-Size: 13302
-MD5sum: 73426c2394063ca577f5b7f04b215792
-SHA1: a6eae259b1b34c186e0f9246ded407cb22c7f088
-SHA256: b125e3c9d6c16914c5d6d2928218e027b5ed44114176671cbf7576c26f279d6c
+Filename: ./cryptolocked.deb
+Size: 12360
+MD5sum: f09318971dd956fd13a9c58fdfd5be6b
+SHA1: 7c1ba6b1c1d7cab355de8f9c8e049f7ead486553
+SHA256: 3bdda9b7edeee3ac0d663ad311a90992d64c5fe5dbe405f2fc844549b49ac361
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -132,11 +132,11 @@ Package: adhd-decloak
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-decloak/adhd-decloak_0.7.2_i386.deb
-Size: 137968
-MD5sum: 58ee8731f41cde8e8b35d59a8587a2f2
-SHA1: abd5933c6c606cef927d9b1581a9ed5ba5cd1aaf
-SHA256: a3933033c31f0687fc9127b600c0235ff903bb170ad7aecb8d6e23e49e4edd51
+Filename: ./decloak.deb
+Size: 137024
+MD5sum: 28d798eeaed462b6457a1df3d63c82a8
+SHA1: 52837d1cf5dcd0583942d79c137247a43a5184d6
+SHA256: feb091c9c69b489cd04d0074320758d2115e425947de810fa6cdca0998b7cb10
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -197,11 +197,11 @@ Package: adhd-gcat-poc
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-gcat-poc/adhd-gcat-poc_0.7.2_i386.deb
-Size: 12858
-MD5sum: 39034ca53e42f0fc12f9693c23ac2777
-SHA1: 8d4e1f0bff856403d6d44992595ed97d67183661
-SHA256: f26bf79bbf2fd04264acb10d8aaca1820eb86c1f06408f2f0e1f98c411b92aca
+Filename: ./gcat-poc.deb
+Size: 11918
+MD5sum: b2226ab1ad71e5f6f28222028ee381a1
+SHA1: 75f0b181b9a69189770d7206684318cb71042818
+SHA256: d52570c9869c90dd2c170dae8ab5cbc5a0b90ffeb6e336803c7ff151a221e9d8
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -210,11 +210,11 @@ Package: adhd-ghostwriting
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-ghostwriting/adhd-ghostwriting_0.7.2_i386.deb
-Size: 2208432
-MD5sum: 8db26e0fe30b9c1df55903b26cc7d98f
-SHA1: c595b16ff8c7b6442576c6c2380ff18bd5020cef
-SHA256: 835eaea5bee817c8c53d67adba28f5d8119e800c50fb839eca27f726adb61e2f
+Filename: ./ghostwriting.deb
+Size: 2207852
+MD5sum: 137964cf15fdd3736d80a62da458c1f8
+SHA1: 78c038ff0a638d23bf5859c2450a0a49b38c680c
+SHA256: 5ebc34d0533abc4ca08d87c988bab3b7d8c93e0b678c6c2a613ad2f6d17d8de4
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -223,11 +223,11 @@ Package: adhd-honeybadger
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-honeybadger/adhd-honeybadger_0.7.2_i386.deb
-Size: 119330
-MD5sum: af2751376f6a4587baf87e070aba014d
-SHA1: 2f701ca3cc53f840687697bf54382eb7e9ade9b6
-SHA256: 05319b9ab15601c10d41757309a355a3c212bea2795dbc2bf639b1aa5a89f9fa
+Filename: ./honeybadger.deb
+Size: 118396
+MD5sum: c7177a486eca4f9e09a893dd67ab2166
+SHA1: 2f80aa5a498842237b1bf8043ba90cba472471f8
+SHA256: 8047cc0bfc77035a09434560abb18946ff5d3b607052dc9a6fd377cfcf3c1c36
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -249,11 +249,11 @@ Package: adhd-honeyports
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-honeyports/adhd-honeyports_0.7.2_i386.deb
-Size: 1261144
-MD5sum: 21cd78b4716f40515bbd4ac1bc4df167
-SHA1: 6df069b833e26b5b20a701e813488d98c49fccf1
-SHA256: 180646152da2ebd04b47efd3cdb200b3d1b9da67a4fbbdcc93691872e2305713
+Filename: ./honeyports.deb
+Size: 1260202
+MD5sum: 35d1173b93d0957b37544abb530a0945
+SHA1: e4318e0e6a4a046c77c03268763e294223a233aa
+SHA256: ae58256324c6377e13ac7428bd1ef125972c2f1e58b5fc1c219fce739ade63a4
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -288,11 +288,11 @@ Package: adhd-jar-combiner
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-jar-combiner/adhd-jar-combiner_0.7.2_i386.deb
-Size: 780642
-MD5sum: 61f9a8260518b98348a8b2cbd4f18244
-SHA1: 9405658063ebbf89dc78400c6489a60f759ac554
-SHA256: 484f7adca9766abdabbe8bf8b969e6cff4c104bade26b807bb3aa8fcd66e2001
+Filename: ./jar-combiner.deb
+Size: 779906
+MD5sum: 31b8faec55a3c7b37ddb845e952ada11
+SHA1: 63457f4aadf3d646bfd0d511183d6eeef2e79b55
+SHA256: b58c4861f1b737fd2fcc2215132a4d0f7ce22b9b34e39a49f1cc0421625554e7
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -353,11 +353,11 @@ Package: adhd-nova
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-nova/adhd-nova_0.7.2_i386.deb
-Size: 2737004
-MD5sum: 500aa60a3d34e09ffb14f4207bbc2d2b
-SHA1: 843ef6be169e619b982af61b53b00df56c8b0555
-SHA256: 7ebb14fb2e77d920af1f4ac5a1d6101cf90d87f7c580252739b717ee79672c3b
+Filename: ./nova.deb
+Size: 2735944
+MD5sum: fb7f5fdb757019400fc59fbf4473e999
+SHA1: d3bf1e6ead96a75b69d171f19f751e8ca72a35fb
+SHA256: 9d3a46129f75097d62ec4407a17ed37785f795ab7e060b99a1295aebad3652e7
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -379,11 +379,11 @@ Package: adhd-opencanary
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-opencanary/adhd-opencanary_0.7.2_i386.deb
-Size: 12775728
-MD5sum: 9a184476232453e13cc6cccd7f47d891
-SHA1: c22d4a279395389eaed427474f23150e0ebf6d39
-SHA256: 98addc54f1613d0ad0c42e4bdb0bb74388b1808a2748a4be798fd9b76b98cfb2
+Filename: ./opencanary.deb
+Size: 12775782
+MD5sum: 49fef9c07468ea4279c98f87c993fea4
+SHA1: 80470fbd110f7949305962aa4595bbf97f40db7d
+SHA256: a21a14b44c33f4203d520d1845ac90e787b8a68cef065d49c30fc973f84d32fa
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -392,11 +392,11 @@ Package: adhd-oschameleon
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-oschameleon/adhd-oschameleon_0.7.2_i386.deb
-Size: 22658
-MD5sum: df74a788543615f3a99932138a77ae76
-SHA1: 7154610ecc8918c1435fb090cf42234e0df5dfdd
-SHA256: d6577687f3aa5a5905d04c0d205636960e2918838641736453df83470fb06ed4
+Filename: ./oschameleon.deb
+Size: 21704
+MD5sum: 0a2fafb516b9ecb2ba4037915f0ed838
+SHA1: 6307864ff1bf80175ea26be13ccab719ecf02081
+SHA256: 494d5ac3d5c4589e26b397057df6facc0b16cbbdbae9360c8dda271e7661af39
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -405,11 +405,11 @@ Package: adhd-portspoof
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-portspoof/adhd-portspoof_0.7.2_i386.deb
-Size: 3398886
-MD5sum: b4faf736836e80e1cf5c4ec7c109c016
-SHA1: 6219387d1f0885a059e6f520536c13f589c0c438
-SHA256: da2adcd58eaad68514bcf0e67624b9d77d1415f20401930ed86d4c0498bcf37d
+Filename: ./portspoof.deb
+Size: 3398024
+MD5sum: 83e115da33ca4fcfe77f00a57e5435b3
+SHA1: 12e2776a6d45ab2fa021bbfc854bcdfee7b8f101
+SHA256: a7a62b897cadc5cd333014199ae89109dd8ac218143450e6afc18833bf500dea
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -418,11 +418,11 @@ Package: adhd-psad
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-psad/adhd-psad_0.7.2_i386.deb
-Size: 1607386
-MD5sum: d06d615ddc144ef2be9ce4c8e0a7aca5
-SHA1: d6a89dc70c9da22521666fbcc12806362b363487
-SHA256: 49e8b360177a62ae311fa065edbfa0b9f8fac891ae1a645ca7de7505fce58424
+Filename: ./psad.deb
+Size: 1606990
+MD5sum: 4550a8e1e952f485a31cef08d0e34824
+SHA1: 03769e481530078008f1048517dfdde7c7c4cbe2
+SHA256: 5077e8db8a2d28097e953cb64bb08408755da16108b4beb1817f2daa687bbca6
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -470,11 +470,11 @@ Package: adhd-sidejack
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-sidejack/adhd-sidejack_0.7.2_i386.deb
-Size: 302222
-MD5sum: 2107fe84fe3e3d67d0a95e632bf5b72a
-SHA1: 6085c34c1c04d9b8c861efc26f594280e3dc8f98
-SHA256: 46001ab8933e01c2c4cc30b19dfb6b8d1d35d265ffcdad03d5d06c53521c029d
+Filename: ./sidejack.deb
+Size: 301666
+MD5sum: e7d9f57df64b2b6e829477322eb00c69
+SHA1: dfda39b550226a5c948a06a6b43215cc6201404a
+SHA256: bbf3fbb6a30514daf6d3df08054ab4999166d0bc4939aed4d3f87d4626aab397
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -483,11 +483,11 @@ Package: adhd-simple-pivot-detect
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-simple-pivot-detect/adhd-simple-pivot-detect_0.7.2_i386.deb
-Size: 8868
-MD5sum: f2024ac00fb9fc34b44cf2f79b94d277
-SHA1: 38607184002a50408d313003f2b83b89df8fcfd3
-SHA256: 4381088870cde1c213dd1f1d7cb29cc76e6c8a2cbb26ce12c1ddd4f24e7b8fc8
+Filename: ./simple-pivot-detect.deb
+Size: 7926
+MD5sum: 1bcb4e663a8832619b056fcb2308b74b
+SHA1: cfb20e22553a81770826e00a4578149d0b8b2525
+SHA256: cde9bc392f7a62a009a6f60dc50d3aa919fe8d1be8cb642013fe3c32e6aeeba6
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -496,11 +496,11 @@ Package: adhd-spidertrap
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-spidertrap/adhd-spidertrap_0.7.2_i386.deb
-Size: 25780
-MD5sum: 5cfd51eb64fa45aad9e639608f3a8813
-SHA1: 6f50511ccc9f5329630337921407580ec8e53117
-SHA256: 0f8f394317af52383e56e9f31f540b4d23d561cf765809a6e8cce2473f99a237
+Filename: ./spidertrap.deb
+Size: 24820
+MD5sum: 75da00e11390a94f64d5d173f992f96a
+SHA1: 1685eed124824fea8287d5e4c5e33c2e7b4b14c3
+SHA256: c7e3fea545784bfe2ae3e46068ca51b2d3c29c76b88c173eab7804d980011da7
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -509,11 +509,11 @@ Package: adhd-sqlitebugserver
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-sqlitebugserver/adhd-sqlitebugserver_0.7.2_i386.deb
-Size: 19492
-MD5sum: 7d93e086275111b56c0c38d393bce3ee
-SHA1: a409ae84add7b3add9b2e0175592e4cd0f640075
-SHA256: c727ddc7e7ac16af36b7551fe2b03f346f3c4aef557e3d379c951056dee16729
+Filename: ./sqlitebugserver.deb
+Size: 18556
+MD5sum: 59f1910340c37a55e161d8346a419610
+SHA1: 57c107511664070f360d4622ddb32cdf0766e14a
+SHA256: 7e050d455a42877c19525e10296d9c43d586a29127e819cabcbb50665c7aee3c
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -522,11 +522,11 @@ Package: adhd-sweeper
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-sweeper/adhd-sweeper_0.7.2_i386.deb
-Size: 9916
-MD5sum: 627140185c34bb1db5aa63efcc2490ba
-SHA1: 92913f8073cde16a1e0163af6dab849717297778
-SHA256: 3e8883c252c4b6e51fcfa6c72476edb8e7d0e4e7286e7904f441295ce1416bd0
+Filename: ./sweeper.deb
+Size: 8974
+MD5sum: 80ab68aac7d0de07fbd02ea6c0623866
+SHA1: 96e10c4cbe59c66412401609e0522bea15b274dd
+SHA256: 61a494866efd0b45d95c53cb4d6857e995ad3e483134b3dd9640f2b484ce6621
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -535,11 +535,11 @@ Package: adhd-tcprooter
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-tcprooter/adhd-tcprooter_0.7.2_i386.deb
-Size: 23326
-MD5sum: 1682e6085e7512a9518ff5f94c188728
-SHA1: c7b35d2382eb53153400c4bd5e2ec926d6f6bcea
-SHA256: 692c9c12fae3429de03881e5cc407f6a1434d35bdb7a98532f58862adbff4fb8
+Filename: ./tcprooter.deb
+Size: 22400
+MD5sum: 4db0db0c40bf46803ed82d26432248f8
+SHA1: 8a0c5e2c6fccb43ca672af1b58d3b4bc46001e5c
+SHA256: b37b3987a1efa2f0d259921084c9160845e07b4a8fce8f1703c8cae7177a69c6
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -548,11 +548,11 @@ Package: adhd-webbugserver
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-webbugserver/adhd-webbugserver_0.7.2_i386.deb
-Size: 30538
-MD5sum: b1b7d7b4f9ec587a58a37a83be6b7b08
-SHA1: dd39fc5cb94fb5a77038d2604e55b3604cb587f1
-SHA256: 5cb77a8cea8bce65801ebe47d084f1e31351fdadfa56f6818824b810d3125aa1
+Filename: ./webbugserver.deb
+Size: 29610
+MD5sum: f9f3c1062d6f45558cb91d994eb4969d
+SHA1: b2c76489a29568ee73e609c6527b04fb170f6cab
+SHA256: a0953fa24aaab9855182c76c9c8a98e7f57d2b3ec4fbe5f93544e9ca78ad0ecc
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -574,11 +574,11 @@ Package: adhd-whosthere
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-whosthere/adhd-whosthere_0.7.2_i386.deb
-Size: 640198
-MD5sum: d53780975e777ebf2eb7dda487ae45bd
-SHA1: 9b4afae505db4132fb64a6467a93b52fff2cc207
-SHA256: 3843a38e6edaf77c290380b672fcfd716478fe1287c0f2479a5b9fa998d636c0
+Filename: ./whosthere.deb
+Size: 639254
+MD5sum: 24eb45e7c5622c5bfe23f3233e558649
+SHA1: 2dca127d9bc7ba53e0ae6b1046600636a2642147
+SHA256: 564445725befca6f75553e2c9417e15698ef73bfb6f2078ae68f8ae31aeb6c83
 Section: base
 Priority: optional
 Description: An ADHD Utility
@@ -600,11 +600,11 @@ Package: adhd-wordpot
 Version: 0.7.2
 Architecture: i386
 Maintainer: adhd <adhd@blackhillsinfosec.com>
-Filename: ./repo/pool/main/a/adhd-wordpot/adhd-wordpot_0.7.2_i386.deb
-Size: 1547690
-MD5sum: 92c5a4234ad954213a1725865e57e81d
-SHA1: 2e1577c77de7eba2961177db5492721f522ce115
-SHA256: 2e853e1e38ebe30b374aee817ddecbb84c07def26fbfd1ee463ac6651ea60c8c
+Filename: ./wordpot.deb
+Size: 1546734
+MD5sum: d9306964af47fb0e9e6a99c55534449c
+SHA1: 6bb23e43261cb2470820e67659eb34cfa0eaafa1
+SHA256: 542f404f484552589e828d0e58dbc98231c990d4c8595ada75d29a8503f0b662
 Section: base
 Priority: optional
 Description: An ADHD Utility
